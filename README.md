@@ -4,15 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka-74/LeetCode_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka-74/LeetCode_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka-74/LeetCode_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
