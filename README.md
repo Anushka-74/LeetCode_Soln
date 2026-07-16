@@ -62,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0002-add-two-numbers/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1068-product-sales-analysis-i](https://github.com/Anushka-74/LeetCode_Soln/tree/main/1068-product-sales-analysis-i/) | Easy |
 <!---LeetCode Topics End-->
