@@ -66,4 +66,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1068-product-sales-analysis-i](https://github.com/Anushka-74/LeetCode_Soln/tree/main/1068-product-sales-analysis-i/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0110-balanced-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0110-balanced-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0110-balanced-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
