@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anushka-74/LeetCode_Soln/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0110-balanced-binary-tree](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0110-balanced-binary-tree/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anushka-74/LeetCode_Soln/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
