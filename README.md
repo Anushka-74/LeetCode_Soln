@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anushka-74/LeetCode_Soln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0139-word-break/) | Medium |
+| [0169-majority-element](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0169-majority-element/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0001-two-sum/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0139-word-break/) | Medium |
+| [0169-majority-element](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0169-majority-element/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0169-majority-element](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0169-majority-element/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
