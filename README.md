@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0139-word-break](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0283-move-zeroes/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/Anushka-74/LeetCode_Soln/tree/main/0283-move-zeroes/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anushka-74/LeetCode_Soln/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
